@@ -1,16 +1,17 @@
-# animations_project
+# Flutter animations course by vandad 
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Powered%20by-FLUTTER%20v3.19.2-blue)](https://flutter.dev/)
 
-## Getting Started
+**Para rodar o projeto é necessário ter a versão 3.19.2 do flutter instalada**
 
-This project is a starting point for a Flutter application.
+**Contém uma série de animações escritas em flutter nativo, divididas em partes e sem a utilização de  packages!**
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Foto                                                                                                                                                                                                    | Nome                  | Linkedln                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 👨🏼‍💻     | **Tiago Rezende** | [Linkedln](https://www.linkedin.com/in/tiago-rezende-274a1318a/)                   |
+
+
+---
+
